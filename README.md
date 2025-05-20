@@ -1,8 +1,8 @@
 # hr-project-dashboard-tableau
 [Link](https://public.tableau.com/app/profile/utku.zgen/viz/hr-project-dashboard/HRSummary) to the dashboard on Tableau Publics.
----------
+-----------
 This project consists of 2 dashboards.
----------
+-----------
 First dashboard is divided into 3 sections; Overview, Demographics, and Income
 
 *Overview* includes;
@@ -23,5 +23,4 @@ First dashboard is divided into 3 sections; Overview, Demographics, and Income
 - Comparisons of salaries between different education levels for both genders
 - Age and salary corrolations by department
 -----------
-
 Second dashboard consists of a detailed list of employees with variety of filters such as; age, gender, education, department, job title, salary etc.
