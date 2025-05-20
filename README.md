@@ -1,7 +1,6 @@
 # hr-project-dashboard-tableau
----------
 [Link](https://public.tableau.com/app/profile/utku.zgen/viz/hr-project-dashboard/HRSummary) to the dashboard on Tableau Publics.
-
+---------
 This project consists of 2 dashboards.
 ---------
 First dashboard is divided into 3 sections; Overview, Demographics, and Income
